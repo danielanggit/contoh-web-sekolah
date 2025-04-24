@@ -1,11 +1,7 @@
-Contoh Tampilan Web Sekolah
-===========================
 
-Contoh Web Sekolah Vroh, langsung akses di mari
+=================
 
-[http://novay.github.io/contoh-web-sekolah](http://novay.github.io/contoh-web-sekolah)
-
-Beberapa konten belum terisi... Pokoknya gitulah... Ngahahaha....
+[http://daniel.github.io/contoh-web-sekolah](http://daniel.github.io/contoh-web-sekolah)
 
 
 ###Credit
